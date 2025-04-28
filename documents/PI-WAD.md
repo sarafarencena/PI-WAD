@@ -30,7 +30,7 @@ Assim, alunos como a Giulia Fachinelli, persona do projeto, terão sua demanda p
 
 ### 2.1. Personas
 
-A persona Giulia Fachinelli foi criada para representar os principais empecilhos enfretados pelos alunos do Inteli atrelados a reserva de salas de estudos da faculdade. Permitindo um embasamento sólido para desenvolver o sistema InteliRooms de modo a atender as necessidades dos estudantes.
+A persona Giulia Fachinelli foi criada para representar os principais empecilhos enfretados pelos alunos do Inteli atrelados a reserva de salas de estudos da faculdade, permitindo um embasamento sólido para desenvolver o sistema InteliRooms de modo a atender as necessidades dos estudantes.
 
 <div align="center">
 <sub>Figura 1 - Persona</sub>
