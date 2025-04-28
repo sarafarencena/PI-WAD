@@ -2,7 +2,7 @@
 
 ## InteliRooms
 
-### <a href="www.linkedin.com/in/sara-sbardelotto">Sara Sbardelotto</a>
+### <a href="https://br.linkedin.com/in/sara-sbardelotto/pt">Sara Sbardelotto</a>
 
 ## Sumário
 
